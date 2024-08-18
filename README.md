@@ -1,22 +1,28 @@
-# Discord Rich Presence Script
+إليك الترجمة إلى العربية:
 
-This Node.js script uses the `discord-rpc` and `prompts` packages to set Discord Rich Presence statuses based on user input. You can choose between different activities like editing videos or testing APIs.
+---
+
+# برنامج Rich Presence لDiscord
+
+هذا السكربت بلغة Node.js يستخدم حزمتي `discord-rpc` و `prompts` لتعيين حالات Rich Presence في Discord بناءً على إدخال المستخدم. يمكنك الاختيار بين أنشطة مختلفة مثل تعديل الفيديوهات أو اختبار APIs.
 
 [![Thumbnail](https://img.youtube.com/vi/16f5cSet98M/hqdefault.jpg)](https://www.youtube.com/shorts/16f5cSet98M)
 
-## Installation
+## التثبيت
 
-1. Clone the repository:
+1. قم بنسخ المستودع:
 
    ```bash
    git clone https://github.com/EXA-Hub/RPC
    cd RPC
    ```
 
-2. Install packages:
+2. تثبيت الحزم:
 
    ```bash
    npm install
    ```
 
-3. Click the icon. 🥳
+3. اضغط على الأيقونة. 🥳
+
+---
